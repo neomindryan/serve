@@ -8,7 +8,7 @@ gem 'tzinfo'
 gem 'i18n'
 
 group :development do
-  gem 'rake',           '~> 10.0.3'
+  gem 'rake',           '~> 13.0.1'
   gem 'rdoc',           '~> 3.12.1'
   gem 'rspec',          '~> 2.12.0'
   gem 'jeweler',        '~> 1.6.4'
